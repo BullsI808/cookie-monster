@@ -18,3 +18,20 @@
     width: 200px;
     height: 200px;
 }
+
+#nav-bar {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+
+#top {
+    text-align: center;
+
+}
+#middle {
+    text-align: center;
+}
+#bottom {
+    text-align: center;
+}
